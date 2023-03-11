@@ -1,4 +1,38 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
     background-color: #353344;
     color: white;
+    display: flex;
+    padding: 10px 0;
+}
+
+.sem-foto{
+    width: 4%;
+    position:absolute ;
+    top: 14px;
+    left: 1457px;
+}
+
+.item-cabecalho-lista{
+    display: flex;
+    margin: 0 10px;
+    position: absolute;
+    top: 26px;
+    left: 1342px;
+}
+
+.cabecalho-lista{
+    display: flex;
+    justify-content: right;
+    font-size: 30px;
+    font-style: calc(bold);
+
+}
+
+.coddebox-imagem{
+    width: 27%;
 }
