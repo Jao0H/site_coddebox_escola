@@ -29,10 +29,76 @@
     display: flex;
     justify-content: right;
     font-size: 30px;
-    font-style: calc(bold);
-
 }
 
 .coddebox-imagem{
     width: 27%;
+}
+
+.pesquisa{
+    width: 40%;
+    position: absolute;
+    top: 19px;
+    left: 600px;
+}
+
+.rdr-imagem{
+    width: 90%;
+    position: absolute;
+    top: 135px;
+    left: 77px;
+}
+
+.logo-rockstar{
+    width: 14%;
+    position: absolute;
+    top: 145px;
+    left: 47px;
+
+}
+
+.rdr-logo{
+    width: 27%;
+    position: absolute;
+    top: 125px;
+    left: 1050px;
+}
+
+.avaliar-fundo{
+    width: 20%;
+    position: absolute;
+    top: 830px;
+    left: 1130px;
+}
+
+.avaliar-botao{
+    color: white;
+    position: absolute;
+    top: 832px;
+    left: 1194px;
+    font-size: 52px;
+    display: flex;
+}
+
+.avaliacao{
+    display: flex;
+    color: white;
+    position: absolute;
+    top: 836px;
+    left: 87px;
+    font-size: 61px;
+}
+
+.rdr-nota{
+    display: flex;
+    color: white;
+    position: absolute;
+    top: 742px;
+    left: 92px;
+    font-size: 100px;
+}
+
+.jogo{
+    background-image: linear-gradient(#494760,#353344);
+    padding: 2958px 0;
 }
